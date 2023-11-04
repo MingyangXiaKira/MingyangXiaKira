@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactNative**
 
-- 👯 I’m looking to collaborate on **Any interesting open source projects**
+- 👯 I’m looking to collaborate on **Interesting open source projects**
 
 - 👨‍💻 All of my projects are available at [https://mingyangxiakira.github.io/portfolio-page/](https://mingyangxiakira.github.io/portfolio-page/)
 
