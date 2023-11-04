@@ -13,17 +13,8 @@
 - 📫 How to reach me: **mxia@tcd.ie**
 
 <h3 align="center">Weekly Development Breakdown</h3>
-<!--START_SECTION:waka-->
-
-```txt
-Other        15 mins         ████████████░░░░░░░░░░░░░   48.44 %
-Python       15 mins         ████████████░░░░░░░░░░░░░   48.10 %
-Roff         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-DTD          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!--END_SECTION:waka-->
+<!--START_SECTION:WakaTime status update-->
+<!--END_SECTION:WakaTime status update-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mingyang-xia-574306291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mingyang-xia-574306291" height="30" width="40" /></a>
