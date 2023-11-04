@@ -1,4 +1,13 @@
 <!--START_SECTION:waka-->
+
+```txt
+Other        15 mins         ████████████░░░░░░░░░░░░░   48.44 %
+Python       15 mins         ████████████░░░░░░░░░░░░░   48.10 %
+Roff         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+DTD          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+```
+
 <!--END_SECTION:waka-->
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
