@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/master/header.png" alt="Hi 👋, I'm Mingyang Xia">
+  <img src="https://media.tenor.com/44W7Kpj5yOcAAAAC/8bit.gif" alt="Hi 👋, I'm Mingyang Xia">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mingyang Xia</h1>
