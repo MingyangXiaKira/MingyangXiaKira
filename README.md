@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ReactNative**
 - 🌱 I’m currently learning **ReactNative**
-- 👨‍💻 All of my projects are available at [my portfolio page](https://mingyangxiakira.github.io/welcome/)
+- 👨‍💻 All of my projects are available at [my portfolio page](https://mingyangxiakira.github.io/)
 - 💬 Ask me about **React, Node, Redux**
 - 📫 How to reach me: **mxia@tcd.ie**
 
