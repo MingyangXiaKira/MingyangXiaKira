@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Mingyang Xia</h1>
 <h3 align="center">A passionate full-stack developer from Ireland</h3>
 
-- 🔭 I’m currently working on **ReactNative**
-- 🌱 I’m currently learning **ReactNative**
+- 🔭 I’m currently working on **Next.js**
+- 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [my portfolio page](https://mingyangxiakira.github.io/)
 - 💬 Ask me about **React, Node, Redux**
 - 📫 How to reach me: **mxia@tcd.ie**
