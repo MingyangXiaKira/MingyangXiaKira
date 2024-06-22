@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Next.js**
 - 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [my portfolio page](https://mingyangxiakira.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio page](https://my-portfolio-omega-ten-91.vercel.app/)
 - 💬 Ask me about **React, Node, Redux**
 - 📫 How to reach me: **mxia@tcd.ie**
 
