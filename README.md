@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [my portfolio page](https://my-portfolio-omega-ten-91.vercel.app/)
 - 💬 Ask me about **React, Node, Redux**
-- 📫 How to reach me: **mxia@tcd.ie**
+- 📫 How to reach me: **mingyang.career@gmail.com**
 
 <h3 align="center">Weekly Development Breakdown</h3>
 <!--START_SECTION:WakaTime status update-->
